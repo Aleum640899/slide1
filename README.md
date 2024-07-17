@@ -1,2 +1,2 @@
-# slide1
-파워포인트 없이 PT할 수 있는 웹페이지
+# slide
+slide ppt
